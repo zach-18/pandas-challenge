@@ -2,6 +2,11 @@ Project Selected = Option 2: PyCitySchools
 
 Project File Name = PyCitySchools.ipynb
 
+Two Observable Trends:
+- Scores by School Size:  The larger the school, the lower the math score.  (83.8 (Small) to 77.1 (Very Large).
+- Scores by Budget Size:  The % Passing Reading was higher for low Budget total schools (92.7%) vs. 
+			  Very High Budget schools (78.6%).
+
 Overall Comments:  
 - I liked this exercise, I simply ran out of time with work to finish every required table. 
 - Most of it I was able to figure out via class material, activities, and Google.
