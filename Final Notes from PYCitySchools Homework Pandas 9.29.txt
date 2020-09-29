@@ -1,0 +1,41 @@
+Project Selected = Option 2: PyCitySchools
+
+Project File Name = PyCitySchools.ipynb
+
+Overall Comments:  
+- I liked this exercise, I simply ran out of time with work to finish every required table. 
+- Most of it I was able to figure out via class material, activities, and Google.
+- I struggled with measuring the % Passing Math / Reading.  My tutor helped me on Monday night.
+- However, I while the tutor helped me measure those numbers, I was unable to add them to my df table.
+
+Section Comments:
+- District Summary
+		- Completed, used calculations and then built one DataFrame
+
+- School Summary
+		- Completed, used Groupby to categorize metrics
+		- Was able to capture % passing math by school (and reading)
+		- was not able to add to the main table. (School_Summary_2_Renamed_df)		
+
+- Top Performing Schools (By % Overall Passing)
+		- Struggled w/ % Overall Passing until Mon Night, ran out of time due to work deliverables.
+
+- Bottom Performning Schools (By % Overall Passing)
+		- Struggled w/ % Overall Passing until Mon Night, ran out of time due to work deliverables.
+
+- Math Scores by Grade
+		- Completed, used groupby.  
+
+- Reading Scores by Grade
+		- Completed, used groupby.  
+
+- Scores by School Spending
+		- Completed, used bin and groupby.
+		- Was able to measure % passed, but did not add to the df.
+
+- Scores by School Size
+		- Completed, used bin and groupby.
+		- Was able to measure % passed, but did not add to the df.
+
+- Scores by School Type
+		- Ran out of time, struggled when two bin items were charter and district.
